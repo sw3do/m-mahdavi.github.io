@@ -2,9 +2,11 @@ theme: jekyll-theme-slate
 title: Mohammad Mahdavi
 description: Professor at Gisma University of Applied Sciences | Data Scientist | AI Specialist
 
+
+
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate-v2
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-scholar
+
+scholar:
+  bibliography: ["attachments/publications.bib"]
+  style: apa
