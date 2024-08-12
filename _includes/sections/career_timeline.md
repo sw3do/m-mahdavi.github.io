@@ -27,9 +27,9 @@
 - Built a word embedding model using the word2vec architecture
 
 ### MSc in Computer Engineering-Artificial Intelligence and Robotics at the University of Tehran
-> 2013--2015, Tehran, Iran}
+> 2013--2015, Tehran, Iran
 - Extracted content features that describe the egocentrism level of tweets
 - Built popularity prediction models using the extracted content features and topic detection
 
 ### BSc in Computer Engineering-Hardware at Iran University of Science and Technology
-> 2009--2013, Tehran, Iran}
+> 2009--2013, Tehran, Iran
