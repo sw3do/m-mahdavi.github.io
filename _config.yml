@@ -8,5 +8,5 @@ plugins:
   - jekyll-scholar
 
 scholar:
-  bibliography: ["attachments/publications.bib"]
+  bibliography: ["_includes/sections/references.bib"]
   style: apa
