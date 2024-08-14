@@ -1,12 +1,25 @@
-theme: jekyll-theme-slate
+# theme: minima
 title: Mohammad Mahdavi
-description: Professor at Gisma University of Applied Sciences | Data Scientist | AI Specialist
+description: Professor at Gisma University of Applied Sciences <br> Data Scientist | AI Specialist
+
+photo_url: "/assets/images/me.jpg"
+work_url: https://www.gisma.com/faculty-and-team/dr-mohammad-mahdavi-academic
+scholar_url: https://scholar.google.com/citations?user=_f28BMMAAAAJ&hl=en
+github_url: https://github.com/m-mahdavi
+linkedin_url: https://www.linkedin.com/in/mohammad-mahdavi-lahijani/
+url: "https://m-mahdavi.github.io/"
+baseurl: ""
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# plugins:
+#   - jekyll-feed
+#   - jekyll-gist
+#   - jekyll-paginate-v2
+#   - jekyll-seo-tag
+#   - jekyll-sitemap
 
 
-
-plugins:
-  - jekyll-scholar
-
-scholar:
-  bibliography: ["_includes/sections/references.bib"]
-  style: apa
