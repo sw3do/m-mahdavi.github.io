@@ -1,4 +1,4 @@
-## Recent Publications and Artifacts
+## Recent Research Papers and Artifacts
 
 - Combat Greenwashing with GoalSpotter: Automatic Sustainability Objective Detection in Heterogeneous Reports 
 [<span class="emoji">📄</span>](/assets/pdfs/mahdavi2024combat.pdf) 
