@@ -9,7 +9,7 @@ Feb 2021 -- Present, Potsdam, Germany
 > - Served on the Academic Senate and Examination Board of the university
 
 ### Data Scientist at Integration Alpha
-Jun 2021 -- Jun 2023, Remote Part-Time
+Jul 2021 -- Jul 2023, Remote Part-Time
 > - Built a text classification model to detect sustainability objectives in heterogeneous sustainability reports using Transformers
 > - Built an information extraction model to extract fine-granular details of sustainability objectives using Transformers
 
