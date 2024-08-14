@@ -112,3 +112,9 @@ footer {
   transform: scale(2);
   filter: drop-shadow(0 0 8px rgba(205, 228, 23, 0.916));
 }
+
+.jumbotron {
+  background-color: transparent !important;
+  border: none;
+  box-shadow: none;
+}
