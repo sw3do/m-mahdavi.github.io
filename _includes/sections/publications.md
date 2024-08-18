@@ -4,7 +4,7 @@
 [<span class="emoji">📄</span>](/assets/pdfs/mahdavi2024combat.pdf) 
 [<span class="emoji">📁</span>](https://github.com/Ferris-Solutions/goalspotter_public)
 <!---->
-- Automatic Error Correction Using theWikipedia Page Revision History 
+- Automatic Error Correction Using the Wikipedia Page Revision History 
 [<span class="emoji">💻</span>](https://dl.acm.org/doi/abs/10.1145/3459637.3482062)
 [<span class="emoji">📄</span>](/assets/pdfs/hasan2021automatic.pdf)
 <!---->
@@ -46,7 +46,7 @@
 [<span class="emoji">💻</span>](https://dl.acm.org/doi/abs/10.1145/3357384.3358129)
 [<span class="emoji">📄</span>](/assets/pdfs/neutatz2019ed2.pdf)
 <!---->
-- Towards automated data cleaning workflows 
+- Towards Automated Data Cleaning Workflows 
 [<span class="emoji">📄</span>](/assets/pdfs/mahdavi2019towards.pdf)
 <!---->
 - A Comprehensive Analysis of Tweet Content and Its Impact on Popularity
