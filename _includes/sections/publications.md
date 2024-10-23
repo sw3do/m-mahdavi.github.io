@@ -1,6 +1,7 @@
 ## Recent Research Papers and Artifacts
 
 - Combat Greenwashing with GoalSpotter: Automatic Sustainability Objective Detection in Heterogeneous Reports 
+[<span class="emoji">💻</span>](https://dl.acm.org/doi/10.1145/3627673.3680110)
 [<span class="emoji">📄</span>](/assets/pdfs/mahdavi2024combat.pdf) 
 [<span class="emoji">📁</span>](https://github.com/Ferris-Solutions/goalspotter_public)
 <!---->

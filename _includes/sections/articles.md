@@ -1,4 +1,4 @@
-## Articles
+## Recent Articles
 
 - Future Decision-Making Processes in the Data Science Era 
 [<span class="emoji">💻</span>](https://www.techerati.com/features-hub/future-decision-making-processes-in-the-data-science-era/)
