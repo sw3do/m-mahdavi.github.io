@@ -1,4 +1,3 @@
-# theme: minima
 title: Mohammad Mahdavi
 description: Professor at Gisma University of Applied Sciences <br> Data Scientist | AI Specialist
 
@@ -9,6 +8,12 @@ github_url: https://github.com/m-mahdavi
 linkedin_url: https://www.linkedin.com/in/mohammad-mahdavi-lahijani/
 url: "https://m-mahdavi.github.io/"
 baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
 
 exclude:
   - Gemfile
