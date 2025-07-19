@@ -7,7 +7,7 @@ scholar_url: https://scholar.google.com/citations?user=_f28BMMAAAAJ&hl=en
 github_url: https://github.com/m-mahdavi
 linkedin_url: https://www.linkedin.com/in/mohammad-mahdavi-lahijani/
 url: "https://sw3do.github.io/m-mahdavi.github.io/"
-baseurl: ""
+baseurl: "https://sw3do.github.io/m-mahdavi.github.io"
 
 markdown: kramdown
 kramdown:
