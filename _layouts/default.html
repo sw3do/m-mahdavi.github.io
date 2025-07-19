@@ -7,7 +7,7 @@
   <meta name="description" content="{{ site.description }}">
   <title>{{ site.title }}</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ '/assets/css/styles.css' }}">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </head>
@@ -17,7 +17,7 @@
   
   <div id="particles-js" class="fullscreen">
     <div class="jumbotron text-center">
-      <img class="particles-photo" src="{{ site.photo_url }}" alt="{{ site.title }} - Profile Photo" loading="lazy"/>
+      <img class="particles-photo" src="{{ site.baseurl }}{{ site.photo_url }}" alt="{{ site.title }} - Profile Photo" loading="lazy"/>
       <h1 class="particles-title">{{ site.title }}</h1>
       <p class="particles-subtitle">{{ site.description }}</p>
       <div class="nowrap">
